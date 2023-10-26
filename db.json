@@ -1,0 +1,814 @@
+{
+  "products": [
+    {
+      "name": "Fair Isle Sleeveless Jumper",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1485540_alternate10?$plpDeskRFAlt$",
+      "price": 74,
+      "description": "Polo Ralph Lauren",
+      "type": "jumper",
+      "id": 2,
+      "likes": [
+        {
+          "id": 1697372907992,
+          "user": "sama122"
+        },
+        {
+          "id": 1697428471149,
+          "user": "sabina"
+        },
+        {
+          "id": 1697459104335,
+          "user": "123"
+        },
+        {
+          "id": 1697465211906,
+          "user": "sam151515"
+        },
+        {
+          "id": 1697530856480,
+          "user": "sam8585"
+        },
+        {
+          "id": 1697541134103,
+          "user": "karina"
+        },
+        {
+          "id": 1697622381545,
+          "user": "aman"
+        },
+        {
+          "id": 1697696005279,
+          "user": "samagan"
+        },
+        {
+          "id": 1697696199028,
+          "user": "akram"
+        }
+      ],
+      "comments": [
+        {
+          "id": 1697464464997,
+          "body": "ssssss",
+          "rating": 5,
+          "user": "sam151515"
+        },
+        {
+          "id": 1697530870620,
+          "body": "qwerty",
+          "rating": 6,
+          "user": "sam8585"
+        },
+        {
+          "id": 1697620933883,
+          "body": "wow",
+          "rating": 10,
+          "user": "goga"
+        },
+        {
+          "id": 1697696059651,
+          "body": "soska",
+          "rating": 5,
+          "user": "samagan"
+        },
+        {
+          "id": 1697696208568,
+          "body": "hoho",
+          "rating": 5,
+          "user": "akram"
+        },
+        {
+          "id": 1697711633812,
+          "body": "wowoooowowwoo",
+          "rating": 10,
+          "user": "sabina"
+        }
+      ],
+      "rating": "6.8"
+    },
+    {
+      "name": "Cable Wool-Cashmere Short-Sleeve Jumper",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1485539_alternate10?$plpDeskRFAlt$",
+      "price": 85,
+      "description": "Polo Ralph Lauren",
+      "type": "jumper",
+      "id": 3,
+      "likes": [
+        {
+          "id": 1697296813595,
+          "user": "sama122"
+        },
+        {
+          "id": 1697541135753,
+          "user": "karina"
+        },
+        {
+          "id": 1697711729862,
+          "user": "sabina"
+        }
+      ],
+      "comments": [
+        {
+          "id": 1697541200986,
+          "body": "cool buy ",
+          "rating": 10,
+          "user": "karina"
+        }
+      ],
+      "rating": "10.0"
+    },
+    {
+      "name": "Fair Isle Wool-Blend V-Neck Cardigan",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1485514_alternate10?$plpDeskRFAlt$",
+      "price": 852,
+      "description": "Polo Ralph Lauren",
+      "type": "cardigan",
+      "id": 4,
+      "likes": [
+        {
+          "id": 1697296815017,
+          "user": "sama122"
+        },
+        {
+          "id": 1697431992174,
+          "user": "sabina"
+        }
+      ]
+    },
+    {
+      "name": "Cable-Knit Wool-Cashmere Cardigan",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1486046_alternate10?$plpDeskRFAlt$",
+      "price": 822,
+      "description": "Polo Ralph Lauren",
+      "type": "cardigan",
+      "id": 5,
+      "likes": [
+        {
+          "id": 1697296816264,
+          "user": "sama122"
+        },
+        {
+          "id": 1697428476764,
+          "user": "sabina"
+        },
+        {
+          "id": 1697620593776,
+          "user": "samagan"
+        }
+      ]
+    },
+    {
+      "name": "Argyle Wool Sleeveless Jumper",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1487469_alternate10?$plpDeskRFAlt$",
+      "price": 852,
+      "description": "Polo Ralph Lauren",
+      "type": "jumper",
+      "id": 6,
+      "likes": [
+        {
+          "id": 1697296817121,
+          "user": "sama122"
+        },
+        {
+          "id": 1697432008814,
+          "user": "sabina"
+        }
+      ]
+    },
+    {
+      "name": "Slim Fit Washable Wool Jumper",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1451634_alternate10?$plpDeskRFAlt$",
+      "price": 741,
+      "description": "Polo Ralph Lauren",
+      "type": "jumper",
+      "id": 8,
+      "likes": [
+        {
+          "id": 1697306740685,
+          "user": "sama122"
+        }
+      ]
+    },
+    {
+      "name": "Cotton-Cashmere Crewneck Jumper",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1482588_alternate10?$plpDeskRFAlt$",
+      "price": 89456,
+      "description": "Polo Ralph Lauren",
+      "type": "jumper",
+      "id": 9,
+      "likes": [
+        {
+          "id": 1697357641182,
+          "user": "sabina"
+        }
+      ]
+    },
+    {
+      "name": "Cotton Crewneck Jumper",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1488114_alternate10?$plpDeskRFAlt$",
+      "price": 155,
+      "description": "Polo Ralph Lauren",
+      "type": "jumper",
+      "id": 10,
+      "likes": [
+        {
+          "id": 1697366433038,
+          "user": "sabina"
+        }
+      ]
+    },
+    {
+      "name": "Slim Fit Cotton Sweater",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1275135_alternate10?$plpDeskRF$",
+      "price": 589,
+      "description": "Polo Ralph Lauren",
+      "type": "sweater",
+      "id": 11,
+      "likes": [
+        {
+          "id": 1697366653069,
+          "user": "sabina"
+        }
+      ]
+    },
+    {
+      "name": "Donegal Wool-Blend Funnelneck Jumper",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1485543_alternate10?$plpDeskRFAlt$",
+      "price": 5521,
+      "description": "Polo Ralph Lauren",
+      "type": "jumper",
+      "id": 12
+    },
+    {
+      "name": "Cable-Knit Cashmere Crewneck Cardigan",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1485461_alternate1?$plpDeskRF$",
+      "price": 48956,
+      "description": "Polo Ralph Lauren",
+      "type": "cardigan",
+      "id": 13
+    },
+    {
+      "name": "Sullivan Slim Faded Stretch Jean",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1487442_alternate10?$plpDeskRFAlt$",
+      "price": 27.74,
+      "description": "Polo Ralph Lauren",
+      "type": "jeans",
+      "id": 14,
+      "likes": []
+    },
+    {
+      "name": "Sullivan Slim Stretch Jeans",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1319680_alternate10?$plpDeskRFAlt$",
+      "price": 36,
+      "description": "Polo Ralph Lauren",
+      "type": "jeans",
+      "id": 15,
+      "likes": []
+    },
+    {
+      "name": "Parkside Active Taper Stretch Jean",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1411007_alternate10?$plpDeskRFAlt$",
+      "price": 17,
+      "description": "Polo Ralph Lauren",
+      "type": "jeans",
+      "id": 16,
+      "likes": []
+    },
+    {
+      "name": "Hampton Relaxed Straight Jean",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1314963_alternate10?$plpDeskRFAlt$",
+      "price": 19,
+      "description": "Polo Ralph Lauren",
+      "type": "jeans",
+      "id": 17,
+      "likes": []
+    },
+    {
+      "name": "Tompkins High-Rise Super-Slim Jean",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1470462_alternate1?$plpDeskRF$",
+      "price": 33,
+      "description": "Polo Ralph Lauren",
+      "type": "jeans",
+      "id": 18,
+      "likes": []
+    },
+    {
+      "name": "High-Rise Boot Jean",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1494007_alternate10?$plpDeskRFAlt$",
+      "price": 45,
+      "description": "Polo Ralph Lauren",
+      "type": "jeans",
+      "id": 19,
+      "likes": []
+    },
+    {
+      "name": "Tompkins Skinny Jean",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1425044_alternate10?$plpDeskRFAlt$",
+      "price": 43,
+      "description": "Polo Ralph Lauren",
+      "type": "jeans",
+      "id": 20,
+      "likes": []
+    },
+    {
+      "name": "Mid-Rise Super-Slim Jean",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1474891_alternate10?$plpDeskRFAlt$",
+      "price": 33,
+      "description": "Polo Ralph Lauren",
+      "type": "jeans",
+      "id": 21,
+      "likes": []
+    },
+    {
+      "name": "High-Rise Straight Ankle Jean",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1483668_alternate10?$plpDeskRFAlt$",
+      "price": 22,
+      "description": "Polo Ralph Lauren",
+      "type": "jeans",
+      "id": 22,
+      "likes": []
+    },
+    {
+      "name": "Boot Jean",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1480509_alternate10?$plpDeskRFAlt$",
+      "price": 23,
+      "description": "Polo Ralph Lauren",
+      "type": "jeans",
+      "id": 23,
+      "likes": []
+    },
+    {
+      "name": "Mid-Rise Straight Ankle Jean",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1483676_alternate10?$plpDeskRFAlt$",
+      "price": 24,
+      "description": "Polo Ralph Lauren",
+      "type": "jeans",
+      "id": 24,
+      "likes": []
+    },
+    {
+      "name": "Averi Nappa Leather Loafer",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1460204_lifestyle?$plpMob$",
+      "price": 25,
+      "description": "Polo Ralph Lauren",
+      "type": "shoes",
+      "id": 25,
+      "likes": []
+    },
+    {
+      "name": "Heritage Court II Suede Trainer",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1446093_lifestyle?$plpMob$",
+      "price": 6,
+      "description": "Polo Ralph Lauren",
+      "type": "shoes",
+      "id": 26,
+      "likes": []
+    },
+    {
+      "name": "Heritage Court II Leather Trainer",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1403802_alternate3?$plpDeskRF$",
+      "price": 20,
+      "description": "Polo Ralph Lauren",
+      "type": "shoes",
+      "id": 27,
+      "likes": []
+    },
+    {
+      "name": "Polo Camp Suede Shoe",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1493157_lifestyle?$plpMob$",
+      "price": 20,
+      "description": "Polo Ralph Lauren",
+      "type": "shoes",
+      "id": 28,
+      "likes": []
+    },
+    {
+      "name": "Bryson Leather Chelsea Boot",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1341477_alternate1?$rl_df_pdp_5_7$",
+      "price": 30,
+      "description": "Polo Ralph Lauren",
+      "type": "shoes",
+      "id": 29,
+      "likes": []
+    },
+    {
+      "name": "Lanette Suede Pump",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1492845_lifestyle?$rl_df_pdp_5_7_lif$",
+      "price": 20,
+      "description": "Polo Ralph Lauren",
+      "type": "shoes",
+      "id": 30,
+      "likes": []
+    },
+    {
+      "name": "Polo ID Embossed Mini Shoulder Bag",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1485591_lifestyle?$rl_df_pdp_5_7_lif$",
+      "price": 20,
+      "description": "Polo Ralph Lauren",
+      "type": "bags",
+      "id": 31,
+      "likes": []
+    },
+    {
+      "name": "Heritage Leather Duffel",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1345708_lifestyle?$rl_df_pdp_5_7_lif$",
+      "price": 20,
+      "description": "Polo Ralph Lauren",
+      "type": "bags",
+      "id": 32,
+      "likes": []
+    },
+    {
+      "name": "Suite men",
+      "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1486810_alternate1?$plpDeskRF$",
+      "price": 448,
+      "description": "Suite",
+      "type": "",
+      "id": 33
+    }
+  ],
+  "orders": [
+    {
+      "user": "sama122",
+      "totalCost": 741,
+      "products": [
+        {
+          "count": 1,
+          "totalPrice": 741,
+          "productItem": {
+            "name": "samagan",
+            "picture": "data:image/jpeg;base64,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",
+            "price": 741,
+            "description": "ikumjynhtbgrvf",
+            "type": "",
+            "id": 1,
+            "likes": [
+              {
+                "id": 1697292525774,
+                "user": "asd"
+              },
+              {
+                "id": 1697296427047,
+                "user": "sama122"
+              }
+            ],
+            "comments": [
+              {
+                "id": 1697296417364,
+                "body": "ыыыы",
+                "rating": 3,
+                "user": "sama122"
+              }
+            ],
+            "rating": "3.0"
+          }
+        }
+      ],
+      "id": 1
+    },
+    {
+      "user": "sama122",
+      "totalCost": 74,
+      "products": [
+        {
+          "count": 1,
+          "totalPrice": 74,
+          "productItem": {
+            "name": "sabina ",
+            "picture": "data:image/jpeg;base64,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",
+            "price": 74,
+            "description": "gvfesd",
+            "type": "",
+            "id": 2,
+            "likes": [
+              {
+                "id": 1697296694394,
+                "user": "sama122"
+              }
+            ]
+          }
+        }
+      ],
+      "id": 2
+    },
+    {
+      "user": "sabina",
+      "totalCost": 13890,
+      "products": [
+        {
+          "count": 32,
+          "totalPrice": 13440,
+          "productItem": {
+            "name": "Watch Series 7 with Aluminum Case",
+            "description": "На сегодняшний день, это самый большой дисплей Always-On Retina,Датчик измерения уровня кислорода в крови,Дисплей устойчив к царапинам, а также пыле-влагозащищенный,Сделайте ЭКГ, в любое время и в любом месте",
+            "price": 420,
+            "picture": "https://www.istore.kg/media/products/7-41-Green-GPS.webp",
+            "type": "electronics",
+            "id": 16
+          }
+        },
+        {
+          "count": 1,
+          "totalPrice": 450,
+          "productItem": {
+            "name": "GoPro HERO10 Black",
+            "description": "Впечатляющие 23 мегапикселя,Наша лучшая камера — снимайте потрясающие кадры там, где справится только GoPro.",
+            "price": 450,
+            "picture": "https://www.istore.kg/media/products/GoPro-HERO-10-1.webp",
+            "type": "electronics",
+            "id": 30
+          }
+        }
+      ],
+      "id": 3
+    },
+    {
+      "user": "sam151515",
+      "totalCost": 74,
+      "products": [
+        {
+          "count": 1,
+          "totalPrice": 74,
+          "productItem": {
+            "name": "Fair Isle Sleeveless Jumper",
+            "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1485540_alternate10?$plpDeskRFAlt$",
+            "price": 74,
+            "description": "Polo Ralph Lauren",
+            "type": "jumper",
+            "id": 2,
+            "likes": [
+              {
+                "id": 1697372907992,
+                "user": "sama122"
+              },
+              {
+                "id": 1697428471149,
+                "user": "sabina"
+              },
+              {
+                "id": 1697459104335,
+                "user": "123"
+              }
+            ],
+            "comments": [
+              {
+                "id": 1697464464997,
+                "body": "ssssss",
+                "rating": 5,
+                "user": "sam151515"
+              }
+            ],
+            "rating": "5.0"
+          }
+        }
+      ],
+      "id": 4
+    },
+    {
+      "user": "sam151515",
+      "totalCost": 74,
+      "products": [
+        {
+          "count": 1,
+          "totalPrice": 74,
+          "productItem": {
+            "name": "Fair Isle Sleeveless Jumper",
+            "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1485540_alternate10?$plpDeskRFAlt$",
+            "price": 74,
+            "description": "Polo Ralph Lauren",
+            "type": "jumper",
+            "id": 2,
+            "likes": [
+              {
+                "id": 1697372907992,
+                "user": "sama122"
+              },
+              {
+                "id": 1697428471149,
+                "user": "sabina"
+              },
+              {
+                "id": 1697459104335,
+                "user": "123"
+              },
+              {
+                "id": 1697465211906,
+                "user": "sam151515"
+              }
+            ],
+            "comments": [
+              {
+                "id": 1697464464997,
+                "body": "ssssss",
+                "rating": 5,
+                "user": "sam151515"
+              }
+            ],
+            "rating": "5.0"
+          }
+        }
+      ],
+      "id": 5
+    },
+    {
+      "user": "aman",
+      "totalCost": 35.26,
+      "products": [
+        {
+          "count": 1,
+          "totalPrice": 35.26,
+          "productItem": {
+            "name": "Textured Cotton Crewneck Jumper",
+            "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1487574_alternate10?$plpDeskRFAlt$",
+            "price": "35.26",
+            "description": "Polo Ralph Lauren",
+            "type": "jumper",
+            "id": 1,
+            "likes": [
+              {
+                "id": 1697292525774,
+                "user": "asd"
+              },
+              {
+                "id": 1697372905737,
+                "user": "sama122"
+              },
+              {
+                "id": 1697428472980,
+                "user": "sabina"
+              },
+              {
+                "id": 1697444126509,
+                "user": "123"
+              },
+              {
+                "id": 1697465209997,
+                "user": "sam151515"
+              },
+              {
+                "id": 1697530854904,
+                "user": "sam8585"
+              },
+              {
+                "id": 1697541131968,
+                "user": "karina"
+              },
+              {
+                "id": 1697620591441,
+                "user": "samagan"
+              },
+              {
+                "id": 1697622378199,
+                "user": "aman"
+              }
+            ],
+            "comments": [
+              {
+                "id": 1697296417364,
+                "body": "ыыыы",
+                "rating": 3,
+                "user": "sama122"
+              },
+              {
+                "id": 1697540325536,
+                "body": "sold",
+                "rating": 5,
+                "user": "karina"
+              }
+            ],
+            "rating": "4.0"
+          }
+        }
+      ],
+      "id": 6
+    },
+    {
+      "user": "sabina",
+      "totalCost": 148,
+      "products": [
+        {
+          "count": 2,
+          "totalPrice": 148,
+          "productItem": {
+            "name": "Fair Isle Sleeveless Jumper",
+            "picture": "https://www.optimized-rlmedia.io/is/image/PoloGSI/s7-1485540_alternate10?$plpDeskRFAlt$",
+            "price": 74,
+            "description": "Polo Ralph Lauren",
+            "type": "jumper",
+            "id": 2,
+            "likes": [
+              {
+                "id": 1697372907992,
+                "user": "sama122"
+              },
+              {
+                "id": 1697428471149,
+                "user": "sabina"
+              },
+              {
+                "id": 1697459104335,
+                "user": "123"
+              },
+              {
+                "id": 1697465211906,
+                "user": "sam151515"
+              },
+              {
+                "id": 1697530856480,
+                "user": "sam8585"
+              },
+              {
+                "id": 1697541134103,
+                "user": "karina"
+              },
+              {
+                "id": 1697622381545,
+                "user": "aman"
+              },
+              {
+                "id": 1697696005279,
+                "user": "samagan"
+              },
+              {
+                "id": 1697696199028,
+                "user": "akram"
+              }
+            ],
+            "comments": [
+              {
+                "id": 1697464464997,
+                "body": "ssssss",
+                "rating": 5,
+                "user": "sam151515"
+              },
+              {
+                "id": 1697530870620,
+                "body": "qwerty",
+                "rating": 6,
+                "user": "sam8585"
+              },
+              {
+                "id": 1697620933883,
+                "body": "wow",
+                "rating": 10,
+                "user": "goga"
+              },
+              {
+                "id": 1697696059651,
+                "body": "soska",
+                "rating": 5,
+                "user": "samagan"
+              },
+              {
+                "id": 1697696208568,
+                "body": "hoho",
+                "rating": 5,
+                "user": "akram"
+              }
+            ],
+            "rating": "6.2"
+          }
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "favorites": [
+    {
+      "user": "sama122",
+      "products": [
+        {
+          "count": 1,
+          "totalPrice": 741,
+          "productItem": {
+            "name": "samagan",
+            "picture": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFhYZGBgaGhwaHBwaHBocIRoaHBwaGhoaHBgeIS4lHh4rIRoaJjgmKy8xNTU1HCQ7QDs0Py40NTEBDAwMEA8QHxISHjQrISs2NDQ2PzQ0NDQ0NDQ2NDQ0NDQ2NDQ0NDQ2NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAMIBAwMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAACAwEEBQAGB//EADYQAAEDAgUCAwcEAgIDAQAAAAEAAhEDIQQSMUFRBWFxgZETIjKhsdHwBkLB4VLxFGJystKC/8QAGgEBAAMBAQEAAAAAAAAAAAAAAAEDBAIFBv/EACkRAAMAAgICAgICAQUBAAAAAAABAgMRITEEEkFRMmETcSIUQpGhwQX/2gAMAwEAAhEDEQA/AGsZEBOaELAm02hdEDGtRtKhgRhqA5uqIE8rsoRAoCWNRtapaxFCAgBMAUCBoiLkBAYiDUIem06TnbfnigAhEBsrjMKNzKcxoGgAQGcKDzoD9EQwru3qtF5gTaPEfTVU3VkJFf8AFPI+ak4c8hca/dR7Ycrn2n7GmC6i7ifRLdTI1EJ/tEbHroFHKuhaBptO3pZIdheL/IoQVnNQZYTHcaJT3KAC+4SSEyFBCAUWocsp2VDopAnKhf8ANMcy5JP2twhcgBlKqOAUVX6xqq5dzqgOzd1y7KuQFpt901hSqae1ANZwUbGoWhMAQHAdlyIICUAQf3RtckhvkmDRQA8xXMYSbaoqVMuMD+gtOjRDBbzKkC6OEAu6542VlpJsB5BJq1Q3Uws3E9Rj4VTlzxjW2yyIqnwaT64GpVOp1EbFYtbFk73VetWtPzXm5PPqvx4NM+Mv9xqV8e8+kqi/FO1lV80xclBlvqslZbp8tl8xM/A1+LIIBm/F0RxJ5IVYOvJUclcvf2daRdp4x2xVqn1Bw1WOAjDpAgqyclz02cuIfaPQUupDdXaeIB3Xk3H/AH9U+hiSN1px+dUvVcoovx0+ZPTvaHa+qqVaBb3HP34ScL1AGx1Wkx69PHlnItyzLUOXpmYQhhXq+Hj3m+nH9Ko4Kw4FEKCE2Eio+LqQQ9yp1H8JjzKSWKALJkLoROCGEAPtFym3H0XKQWWjROZqltHZGCgHApzUlhRgoBjjBQxKh2iIFASApbSzkDf81UtWng6GUZtz8go0BlGkGCB5lDWqhokoqr4C8/j8XO9ll8nyFinjsuxY3T/R3UMXmMaD7LN9oVLn3myRmBXi3dW90ehMqVpBl953UONpOpSmPPFhoiYZ14UI6IB5XNedkIqAbSpDpOUDf5LuZ2Q2NiWzmAjaYn1UOeGi7TF9L2C6crffEi5Gh1PHKivUztGVxbteSbRNot9FZrRyuS1lb7wgiwgi8l3hNpiyVTrEgNgSRMSCfzVdh2ZSGkmDcePMqaj8gMgZpJsNb3Pop38jXwgHXEzvHgUkP2hWqgaZI/xJ0nQak/mqrEkgHkSD28Vw5TCYVKr3WxgMZFiZWE0FWab7jZRjusdbRFwqWmeupv4SMTRi4Ft+x+yo9OxOxK12O50Oq9zBmWWdo8+4cvTMxyp1lo4illdHp3CoVmK0rK8f6UEIgEMIBb2oQ1McELhqgFyuR+S5APa2E1o4S2HZGxSBrQpYVzGypHogCuiUNU5igLOCpZ330FytR7krA0crA7/In0CjFPytn0XN0ol0yZW3ozep4rZYGIqeatYt8k6qm8yvnslvJbbPUxypnQDwSBJCEwETe9+yXXqhtzYbKEm3wS6SXITRypDZdAAJNvVcKgcGgHW9tvEqKL6JcWOeZ7f/AFESrYw+z0V1lUorYhgEguv2/wDpMo0wQJDWgTNyCYi5j+EfU+nOptzseSzv+0nnt3VfC4hhbDnAGxGhvwFdWP04Kpz77G0aoDjMkCbxAAkyL3A2TvfcW5nhoGkj4htDuUgvdn9wXvJJIzA6ty3/AABMZh3SXZM2USS4jxtfj+FVyaVp8hGk4PnMQBFtZ/yiNz/CuGoy5LptAO5gm457+CzawNgCQ9xghsExY6G5A58eyDEVMj27tcL/AAzIO75AgyPRQidbLvtIc4BtgDNrgf3HyXVLtJFxwNh3HIO3ZVq2KbLmQG5h8RMwRctd+bqzg2B4Ja8tGYkR3GhTsNaWxRdpC4C9+UVOAXCxEWtr5yiLeFxSIRYw9QTZbuDxOYd15ygwxP56q/gq0FW+PleO/wBMpzQqk9E9mdkbtuPDcLJq0pWnQqaFIxDIcR5jzXudnnsyCxCVcexJNtUAllOURwwF1YpNTCFIKfsVKsQeFyaBWYExoQsaja1ASCUbQgOqJvCAlNY24HNkohWMAJqN8Z9EB6F9KwAFmhrfOL/ysLrFSIC3XVzEdy4nxEfdeX6q/M473WLz79Y0vkvwTujJqHdILoTXz/SULm/yXjyj0Gc0DlVsXhi+zASewnxJOgROeQ5FhuomnLXtdDveDmxN+x8PmtGGJdf5PRTlb9eOTGxrn04ZmIgS643J0SsAAXtJvcwD2i/dXOtYplQjLTcf+2h8lmUA8vDWDTUEAw3ckHXVadTL1PJipU3yer6njWig9r4OcQAbST4ca+SyugYS2Z7wQRYQJPhwq3VGOdlc45mw7LtpEEgaT/Cz61R3uPpuyPbIAtEAN5sbOGvC7dK+zk1eoVnMEEEPLwGn/ICBJjb+lYfiQ6nbMHtfDmyffPn6dpVAVHPw7jXu+5aRAyiNfdSsA8NhxcXSSZ1nYG+m6rcLRZORy0eiwOBxL2NMMy2BAJa9g/yNtNo1VjqPQfZsDw9uQEZ2uEaunMDMm507LGw3Xn4V7CQXMdqCbgEfNa/VesPqsBY1rmGLwfeEGYmwlS5iYe+zRN5Kpa6MJlQB7SWyJcLyImcsjmFq5xIJaM0C405Jjv8Aws/2tg+ALaQNR/Q1WhQcDe17xsJGgWM2ZOkWA2wuL6CNlJAmJt23Q03jfbQIwBcghPy6KeuwGGCrbLRcH+EprQTYfwmtYWkgxrHK5ctDaZtYV8tCtYi7Wny+ypYN9omd/VXgJaR4Fe349e2NM8/ItUyi9qQaBO1uVotYpLLK8rKIZHdRCsvYkuagFZRyuR5VyDRVRgIQiagCKHdSSuA/P5UAhzlc6T8fkVQLwSr3SHe+fA/wpQNZ+i8tj3e8V6iroV5fqbSxxadRrHK83/6C4Rq8btmTVrh0jyhBnIuLRpBTHEca7oGMnSZ/IXnzPK0a6ekVX4rK4Og5JhztY5IG8I6tQPuLgDjYdtgqLKziCwAnny1RYRhLCNgY+yv9XK0Z1fs9oE13CTYCONvFXv8AkMYA9sF2WMu5nW/9KvVwWWQ+ZF8vheSl0KQjO4hrQbSbk9gF3Lqfkqt8i8di6b2ljGEPBHxDYagGVjYhsjMD210k8LUrPZJd7jTe5N+5Kptwz6jg0ZQy0uFz5f0ru3soetjej4gEGm82F7mLa6puPYKbwwudBu0wLjjib6hZ+Iw2STlkAxM3jfS28Lco4pj6MODstoaIDrEAlvEfdH9IsieeUVcS3MCXD9sC85fA87qzgiPZgNLoymA6Pi7RtulYpjmZSyXseJaSIIizmv7hWKj6bmE1WZDlluSw0AgAGCex5Wek/wAa7N6aSXquAunkOp6Tsb6m4V1tRoY2Pe90FwIgBwkEWOlvmsfotQtYSZuSR5afNaeHrAU2veA8yGimZbIGYgzc5ZMmCJLj4riZ5pFt9IRhapzidC7wHhPgtjD1GOaGx71zY6DQSObE+BCyKVIgHeTMbSeB+aLU6Xgz7QBrczibNcLOMaETzsuIe61Iypa2y497CwC+cG//AI7R4GVGHkzYHiT+XTnvLC5pbMgAjtr4jZJa4gnLMO541urcut8med6NXCsIJBEH6RstGiNfAqphnEgEuzFzb3JIgwJ7wAr2G3/8XfSF6PirUcGPL+QELguC5aiohzUh7FYKS7sgE5Pyy5MlcgMppRAJbXWRhwQBg2+ykIAVz3QoANQ9grPSnxUHeQqoI0UU6uV4dwZUg9M7ReY6tJe4ncklemeVgdZp3nssHnzuE/pmjx3qtHnKoMiNAVFfFBjco+IyOfNPqRc77cLPxWGLjmzEOt/uVgw1rk1ZZdLSJZ06rTh4LYdZwJ0m8prKcCCDB0P8rqlN+US8ukbmYR0SXOykEEEagAEQCCL91OS/Z8FcY/VE4jDvbTcWkARDjG3E8LzzHucQ1rHPI0An5FfRThWuomnPxjL6/EfRXMD05lNoa1oELZixNpbM2Rps+eYf9JYipeGsadnkkjnQLQZ+iKzQC17MwM/uF/RfQ2MCa0BaP4Z1orPmeO6DiwDmYx43LInvb+lhmhfK3M1zCbEXMxJj1svtGVZHW+hMrNJgB40cNfNVXhcrae/0asOWU9UjwbninQYHG5e8gHWIaNO5Vep1IVWFrW5iNJFh3RYrCua45xmy2vt4cIqGSMwseP7Xn2537aezfC+CvRlrS0CQ0CTIJNtlfw2HgZ3zfQJVCk0S51p/bsD2Cu5HFwzAtsIBnQxePBV3W+ES+OTUwnSHey9u9stPutDT8MGC5w4sY7q5hKpoklsS5tjBBbuC107EfgV/pGJcA2n7RrWNbnJEt92wczjNEk2JKtdW6vSe1wY1ziYDSQGhsRoNXWttoFunFChUnp/+mKrqq01sx8XWe4lzjOgOkE8Egcj5KtTEnZG50CJdBvBsDxaboaJErLlrb5LZWkaeAFytWn8Lj2j1Kz8AyG+KvPMMjk/T/a9XxJ9cS/5MOV7pghykoLKCVpKiSUMLnuQElATK5DJXIDHzdlJeUGddnQBZlL3oAoeCAoBOfhdXHunwQMlEXSI7QhJ6DpWIz0mHce6fEf0l9Uo5mW2WZ0DFZXlh+F//ALDReieybKvLCyQ5fydRXrWzw2Ip3S3G9xstfqOFhxhZrmxE3XgcxTn6PTlqlsTSoAgnMARcDk2/v0QsYLk7K1SaCDIF9zNo4hKDLxYiTccrv4TOf0bfSWQ2dT34WvTcsbAP9wLRpvXsYFqF/R59/kzRpEbz5JrXN3B7XVJj0wPVxwWg4Jb3JYqKrjcWGNJK4ulMtslJt6R5XrVKXugEgm8bjhefrUGsJOUzY+Xh6L0T3kgmTc7G6xcRhnH3vwrxXXz8M9bF9M7DMzA6GwJibC1pFpWhhmP77W8Ad/BL6c4Mi3rpHhv4K7VY0MzAkwTtqLkWG8bXUKd8oXWnoNvvDeR9BqoEzdF7RskwI4vv3+aa3KW2N4uD2tbyXT18Mq3+gqtZjzZmUREAkz6o6FL3oSabfXVa2ApfuUY5rNaRzkpRJdpMgAKcQ68cfVGy1+FVebr30klpHnthSoBhQQpJMQpIOcdwuKgO2UFAdKhTZcgMAOTJ5NkoRKNrUAwarjp5IQUYUASCjAtKgImCUBSc7K61oMyvUYDGe0YDNxY+K83i2bhT0/FGm6djr/pcV0Sj0WJpye4WLiqBnTVehY5rgHNvISK+GzaarzM/jtvaNWLLo8uW7KHkE2tFvvqr2KwpabhVBTErCnp6Zr3tbLGDxMe6VqMqrDc3e5KdQqxqTGggb/Zb8HkOf8a6M2TD7co3GVU32ywm4okwwOdqbiLASTqdrpTcU95yggEmBoNeSbDxWqvKldbKVho28RjmtFysfFVC9wc62sTxvHOiXSon3i5wOTUF2pvYHfT6cpbpeJLrtEXOw0De39rFly1ffX0aIxzP9g1avrEfgS6WUXLQfW6h7eNj20UZYvqsj3vZoS4CexpdfMba/Qb2FlOGEGDpp59jsVzSRf8APNdUcT2mdLXPAGiOtPY/RYDomYJsYPjwjY4EjLqdvDjsqlFsi9zt4LSweEkyBe3yRP2fqjmtJbY7C0C5y3KbIACXhqAaITK9YMH/AGOn3Xs+L4/8c7fbMGXJ7P8AQGJf+0ba+KUhZ3/CoPZaykIGfBRdQUIKAmVxO6AKC5AMjsuS8/crkBjAIgdUAqIwoBLbFEChJRwgBJ4UNKJyWDdANc0EEKhkgq413glYjWRPeFALHTeoGmb3adQV6bDPa4BzTIK8UrODx76Rltxu380RJb2SesxOFa8XWFjOnls8LZwHUWVR7puNWnUeStPYDqs2fxZy89Msx5an+jw72GYR0MSWODsrXRqCAQRuLj5r0WL6UDdqycTgXCbLy6w5ML5RtnJNIpYnFhznOALATOVpMDlLGKJkCAC3KbASAc1zuZATKlCdbbKsWFvdcfy1vbZ2pkNmUggyDz23t6KHVzAsBvYDX82UUi64gGedjESF3s/FRV8cHXryMwzwdQLH83QVCCbIvZJjKXa/KrdbWhrnYksJTqbJT6GAe46FbGG6aBd11dj8e8j4RxeWZ7ZSwPT85Gw54W3RwzWWHryjYwAQLBIxGNa2zbn6L18Hizi57ZgyZXX9DqtYMF7nYLPYS52ZyUSXGTcqwwRotRUGULiAJULpQEaIZUnVQgBlQXKHcoUBOYKUFuFyAyWlHCBzhxHgiaBsgGA9lJ5KFpRgcoCQ7Zc5kwoBHKlpUAVESpzbJjmzCU+1kAiqwiTt9EsOVyfNIqUePRQSJcwyHMdleNwtLA/qksOSs3/9D+R9lmZkutQDxfXlN6B7rCY5lQSx4cOxVh7QdQvlb2PpOkEjuCR9Fo4X9T4hmpDx/wBtfUKeGNHuq2CpuGhBVCr0dp0KyqH6zYfjYR4EH7K+z9T0D+4jxBVNePirtI7nJc9M49G4IUt6P3Th16h/mFDuvUB+/wCRVf8AocP1/wBnX89/YTOkt3Mq1TwjG6D1Wa/9R0tsx8vuqz/1GT8DI8fsrJ8fFPSRzWS67Z6LKq9XFsbaZPAXn/8AlVal3OLR2tKe1sCFeVj8TjXOJboO33SGOJKMMJhNbSy6IBtNkIylh/NkUnxQEyVBcuHOihxhAQ7xQuKnMoLuboAZCFxUwgQEX5XLrd1yAy5g6WTBzsgY7REEAbPyyKdELXQibO6AkN5Rm6AqR4KAT4IwAULJCIICHM4S3BOAR5J+yApPpTr6qs+iQbXWqWIXUe6AxnM535VZ+BF4sVvnD35UOwrbWUaJ2eUq4N42lQwRrqvWtwTUDuns4T1GzzbGEqyynGtyt5mBZ/imMwzRsmiNmM3Clw0t3VqjhQ0zqtMMHCkNCnQ2IYwq0ymN7qbKQVIGA8QocoD4XPN0ADp3UsfC5zUDmlAOD7lQSlB3zRTa+qAKQClkqQhDkBz9IQ6LncboCe6AJ0rlGZcgMtGNfJQuUAMa+RRn+Fy5SBgQjZcuQBN1R7LlyAY3UqQuXICXalE7RcuQHNUP0XLlAO2Uu0XLlIOboo29Vy5AMGy4bLlygEHXzUvXLlIBdsjC5cgJOyGpsuXIAGpw0XLlAFfnyK7b0ULlIFN0PmobouXKSGSuXLkIP//Z",
+            "price": 741,
+            "description": "ikumjynhtbgrvf",
+            "type": "",
+            "id": 1,
+            "likes": [
+              {
+                "id": 1697292525774,
+                "user": "asd"
+              },
+              {
+                "id": 1697296427047,
+                "user": "sama122"
+              }
+            ],
+            "comments": [
+              {
+                "id": 1697296417364,
+                "body": "ыыыы",
+                "rating": 3,
+                "user": "sama122"
+              }
+            ],
+            "rating": "3.0"
+          }
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+/* Общие стили */
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@500;700&family=Open+Sans&family=Playfair+Display:ital,wght@0,500;1,400&family=Poppins:wght@300&family=Roboto:wght@700;900&family=Space+Grotesk&display=swap");
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+  padding: 10px 20px;
+  color: #fff;
+  height: 8%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  transition: background-color 0.3s;
+  font-family: "Space Grotesk", sans-serif;
+}
+.logo {
+  font-size: 100%;
+}
+
+.navbar.scrolled {
+  background-color: #f8f9fc;
+  color: #333;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Стили для правой части навбара */
+.right-navbar .MuiSvgIcon-root {
+  font-size: 24px;
+  cursor: pointer;
+  color: #fff;
+  transition: color 0.3s;
+}
+
+/* Стили для ссылок в навбаре */
+.nav-links a {
+  text-decoration: none;
+  color: #fff;
+  transition: color 0.3s;
+  cursor: pointer;
+}
+
+/* Стили для навбара с прокруткой */
+.navbar.scrolled .right-navbar .MuiSvgIcon-root {
+  color: #000;
+}
+
+.navbar.scrolled .nav-links a {
+  color: #000;
+}
+
+/* Стили для нижнего блока навбара */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  padding: 10px 20px;
+  color: #fff;
+}
+
+/* Стили для списков ссылок */
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+/* Стили для элементов списка */
+.nav-links li {
+  font-size: 18px;
+}
+
+/* Стили для ссылок в списке */
+.nav-links a {
+  text-decoration: none;
+  color: #fff;
+  transition: color 0.3s;
+  text-transform: uppercase;
+}
+
+/* Стили для ссылок при наведении */
+.nav-links a:hover {
+  color: #0e0e0e;
+  text-decoration: underline;
+}
+
+/* Стили для правой части навбара с иконками */
+.right-navbar {
+  display: flex;
+  gap: 10px;
+}
+
+.right-navbar .MuiSvgIcon-root {
+  font-size: 24px;
+  cursor: pointer;
+  color: #fff;
+}
+/* !-------------- */
+/* @media (max-width: 768px) {
+  .navbar {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .container {
+    width: 70%;
+  }
+} */

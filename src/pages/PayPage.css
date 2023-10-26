@@ -1,0 +1,29 @@
+/* Стили для компонента PayPage */
+
+.credit-card {
+  max-width: 420px;
+  margin-top: 3rem;
+}
+
+/* Стили для header */
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Стили для front и back карточки */
+.front,
+.back {
+  position: relative;
+  display: none;
+}
+
+.front img,
+.back img {
+  width: 100%;
+  height: auto;
+}
+
+/* Остальные стили для вашего компонента */
